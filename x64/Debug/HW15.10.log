@@ -1,0 +1,6 @@
+﻿  HW15.10.cpp
+C:\Users\Rog\source\repos\HW15.10\HW15.10.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Users\Rog\source\repos\HW15.10\HW15.10.cpp(2,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "using namespace"
+C:\Users\Rog\source\repos\HW15.10\HW15.10.cpp(2,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Rog\source\repos\HW15.10\HW15.10.cpp(8,9): error C2065: cout: необъявленный идентификатор
+C:\Users\Rog\source\repos\HW15.10\HW15.10.cpp(16,5): error C2065: cin: необъявленный идентификатор
